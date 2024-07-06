@@ -1,0 +1,147 @@
+h4
+{
+    color:black;
+    font-weight:bold;
+    text-align:right;
+    background-color:darkgrey;
+    padding:0;
+    margin:0;
+}
+.physics
+{
+    font-size: 25px;
+    font-weight:bold;
+    text-align:center;
+    color:darkgreen;
+    background-color:yellow;
+    padding:0;
+    margin:0;
+}
+.maths
+{
+    font-size:25px;
+    font-weight:bold;
+    text-align:center;
+    color:darkblue;
+    background-color:lightblue;
+    padding:0;
+    margin:0;
+}
+.two
+{
+    width:1349px;;
+    height:auto;
+}
+h2
+{
+   
+    text-align:center;
+    font-weight:bold;
+    color:darkblue;
+    padding:0;
+    margin:0;
+}
+.three
+{
+    width:300px;
+    height:300px;
+    margin-left: 30%;
+    border-radius:1000px;
+}
+.aboutpara
+{
+    font-size:30px;
+    font-weight:bold;
+    text-align:center;
+    padding:0;
+    margin:0;
+    color:blueviolet;
+}
+.about
+{
+    background-color: aquamarine;
+}
+.e
+{
+    width:350px;
+    height:250px;
+    margin-left:2cm;
+    border-radius: 300px;
+}
+.classes
+{
+    background-color: yellow;
+}
+.A
+{
+    text-align:center;
+    font-size:25px;
+    font-weight:bold;
+    
+}
+.misson
+{
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+    color:brown;
+    
+}
+th
+{
+    text-align:center;
+    font-size:25px;
+    font-weight:bold;
+    color:blue;
+}
+.table1
+{
+    margin-left: 20%;
+}
+.missoin1
+{
+    background-color:bisque;
+}
+.s
+{
+    width: 200px;
+    height: 200px;
+    padding:20px;
+    margin:0.8cm;
+}
+.Social
+{
+background-color:plum;
+}
+.h
+{
+    width: 620px;
+    height: 400px;
+    padding:20px;
+    margin:0.8cm;
+    border-radius:30px;
+}
+.hightlight
+{
+    background-color: rgb(102, 205, 240);
+}
+.c
+{
+    width: 200px;
+    height: 200px;
+    padding:30px;
+    margin-left:5cm;
+}
+.contanct
+{
+    background-color: darkgray;
+}
+.footer
+{
+    font-weight:bold;
+    color:white;
+    text-align:center;
+    background-color: black;
+    padding:0;
+    margin:0;
+}
