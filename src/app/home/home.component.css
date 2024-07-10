@@ -47,7 +47,9 @@ h2
     height:300px;
     margin-left: 30%;
     border-radius:1000px;
+    transition: transform 0.5s ease;
 }
+
 .aboutpara
 {
     font-size:30px;
@@ -108,6 +110,7 @@ th
     height: 200px;
     padding:20px;
     margin:0.8cm;
+    transition: transform 0.5s ease;
 }
 .Social
 {
@@ -131,17 +134,33 @@ background-color:plum;
     height: 200px;
     padding:30px;
     margin-left:5cm;
+    transition: transform 0.5s ease;
 }
 .contanct
 {
     background-color: darkgray;
 }
-.footer
-{
-    font-weight:bold;
-    color:white;
-    text-align:center;
-    background-color: black;
-    padding:0;
-    margin:0;
+
+.s:hover {
+    transform: scale(1.1);
+}
+
+.s:not(:hover) {
+    transform: scale(1);
+}
+
+.c:hover {
+    transform: scale(1.1);
+}
+
+.c:not(:hover) {
+    transform: scale(1);
+}
+
+.three:hover {
+    transform: scale(1.1);
+}
+
+.three:not(:hover) {
+    transform: scale(1);
 }
