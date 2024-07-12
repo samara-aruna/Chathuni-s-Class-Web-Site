@@ -9,6 +9,7 @@
 img
 {
     border-radius: 30px;
+    transition: transform 0.5s ease;
 }
 h3
 {
@@ -16,3 +17,10 @@ h3
     text-align:center;
 }
 
+img:hover {
+    transform: scale(1.1);
+}
+
+img:not(:hover) {
+    transform: scale(1);
+}

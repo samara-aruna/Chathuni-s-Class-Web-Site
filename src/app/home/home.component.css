@@ -69,6 +69,7 @@ h2
     height:250px;
     margin-left:2cm;
     border-radius: 300px;
+    transition: transform 0.5s ease;
 }
 .classes
 {
@@ -162,5 +163,14 @@ background-color:plum;
 }
 
 .three:not(:hover) {
+    transform: scale(1);
+}
+
+
+.e:hover {
+    transform: scale(1.1);
+}
+
+.e:not(:hover) {
     transform: scale(1);
 }
